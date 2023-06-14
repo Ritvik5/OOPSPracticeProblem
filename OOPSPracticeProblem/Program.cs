@@ -28,6 +28,13 @@
 
             DownwardTraingle pattern = new DownwardTraingle();
             pattern.StarPatter();
+
+            Console.WriteLine("\n==================================\n");
+
+            //-- Hollow Square Pattern
+
+            HollowSquare hollow = new HollowSquare();
+            hollow.StarSpacePattern();
         }
     }
 }
