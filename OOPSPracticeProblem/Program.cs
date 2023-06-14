@@ -18,11 +18,16 @@
             //--Frequency count
             //FrequencyCount freq = new FrequencyCount();
             //freq.FrequencyCounts();
-            
+
             //--MaximumMinimumElement
-            MaxMinElements maxMin = new MaxMinElements();
-            maxMin.MaximumElement();
-            maxMin.MinimumElement();
+            //MaxMinElements maxMin = new MaxMinElements();
+            //maxMin.MaximumElement();
+            //maxMin.MinimumElement();
+
+            //--DownwardTraingle
+
+            DownwardTraingle pattern = new DownwardTraingle();
+            pattern.StarPatter();
         }
     }
 }
