@@ -16,8 +16,13 @@
             //unique.IsUnique();
 
             //--Frequency count
-            FrequencyCount freq = new FrequencyCount();
-            freq.FrequencyCounts();
+            //FrequencyCount freq = new FrequencyCount();
+            //freq.FrequencyCounts();
+            
+            //--MaximumMinimumElement
+            MaxMinElements maxMin = new MaxMinElements();
+            maxMin.MaximumElement();
+            maxMin.MinimumElement();
         }
     }
 }
