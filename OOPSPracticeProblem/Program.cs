@@ -5,6 +5,11 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Object Oriented Practice Problem!!!\n");
+
+            //-- Duplicate Elements
+            DuplicateElement element = new DuplicateElement();
+            element.IsDuplicate();
+            
         }
     }
 }
