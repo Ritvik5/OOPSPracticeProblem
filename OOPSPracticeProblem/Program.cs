@@ -9,11 +9,15 @@
             //-- Duplicate Elements
             //DuplicateElement element = new DuplicateElement();
             //element.IsDuplicate();
-            
+
             //--Unique Elements
 
-            UniqueElement unique = new UniqueElement();
-            unique.IsUnique();
+            //UniqueElement unique = new UniqueElement();
+            //unique.IsUnique();
+
+            //--Frequency count
+            FrequencyCount freq = new FrequencyCount();
+            freq.FrequencyCounts();
         }
     }
 }
