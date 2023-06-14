@@ -7,9 +7,13 @@
             Console.WriteLine("Welcome to Object Oriented Practice Problem!!!\n");
 
             //-- Duplicate Elements
-            DuplicateElement element = new DuplicateElement();
-            element.IsDuplicate();
+            //DuplicateElement element = new DuplicateElement();
+            //element.IsDuplicate();
             
+            //--Unique Elements
+
+            UniqueElement unique = new UniqueElement();
+            unique.IsUnique();
         }
     }
 }
