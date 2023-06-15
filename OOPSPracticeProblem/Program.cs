@@ -36,9 +36,17 @@
             //HollowSquare hollow = new HollowSquare();
             //hollow.StarSpacePattern();
 
-            ReverseEachWord reverse = new ReverseEachWord();
+            //-- Reverse each word in a string
 
-            reverse.Reverse();
+            //ReverseEachWord reverse = new ReverseEachWord();
+
+            //reverse.Reverse();
+
+            //-- Sum Of All Digit
+
+            SumOfAllDigit sumOf = new SumOfAllDigit();
+
+            sumOf.SumOfNumber();
         }
     }
 }
