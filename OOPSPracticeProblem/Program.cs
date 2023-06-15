@@ -26,15 +26,19 @@
 
             //--DownwardTraingle
 
-            DownwardTraingle pattern = new DownwardTraingle();
-            pattern.StarPatter();
+            //DownwardTraingle pattern = new DownwardTraingle();
+            //pattern.StarPatter();
 
-            Console.WriteLine("\n==================================\n");
+            //Console.WriteLine("\n==================================\n");
 
             //-- Hollow Square Pattern
 
-            HollowSquare hollow = new HollowSquare();
-            hollow.StarSpacePattern();
+            //HollowSquare hollow = new HollowSquare();
+            //hollow.StarSpacePattern();
+
+            ReverseEachWord reverse = new ReverseEachWord();
+
+            reverse.Reverse();
         }
     }
 }
